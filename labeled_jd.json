@@ -1,0 +1,580 @@
+[
+    {
+        "text": "We are looking for a Python developer with Django experience.",
+        "skills": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "text": "Must have strong knowledge of AWS and Docker containers.",
+        "skills": [
+            "AWS",
+            "Docker"
+        ]
+    },
+    {
+        "text": "Must know Docker and AWS for cloud deployment.",
+        "skills": [
+            "Docker",
+            "AWS",
+            "cloud deployment"
+        ]
+    },
+    {
+        "text": "Experience in Java, Spring Boot, and Microservices.",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices"
+        ]
+    },
+    {
+        "text": "Experience with SQL databases and Git version control.",
+        "skills": [
+            "SQL databases",
+            "Git"
+        ]
+    },
+    {
+        "text": "React frontend experience is a plus.",
+        "skills": [
+            "React frontend"
+        ]
+    },
+    {
+        "text": "Bachelor’s degree in Electrical Engineering with 3 - 5 years of related professional experience.",
+        "skills": [
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "text": "Strong fundamentals in electromagnetics (EM), transmission lines and microwave theory, Signal and Power Integrity.",
+        "skills": [
+            "electromagnetics",
+            "EM",
+            "transmission lines",
+            "microwave theory",
+            "Signal and Power Integrity"
+        ]
+    },
+    {
+        "text": "Experience in using 2-D and 3-D EM simulation tools such as Ansys HFSS, SI-Wave, Cadence Clarity, CST Studio Suite, HyperLynx.",
+        "skills": [
+            "2-D and 3-D EM simulation tools",
+            "Ansys HFSS",
+            "SI-Wave",
+            "Cadence Clarity",
+            "CST Studio Suite",
+            "HyperLynx"
+        ]
+    },
+    {
+        "text": "Frequency domain and time domain knowledge of high speed signaling.",
+        "skills": [
+            "Frequency domain",
+            "time domain",
+            "high speed signaling"
+        ]
+    },
+    {
+        "text": "Experience with channel simulations using MATLAB, ADS or other tools.",
+        "skills": [
+            "channel simulations",
+            "MATLAB",
+            "ADS"
+        ]
+    },
+    {
+        "text": "Power plane design, modeling and analysis using tools like PowerSI, Ansys SIwave.",
+        "skills": [
+            "Power plane design",
+            "modeling",
+            "analysis",
+            "PowerSI",
+            "Ansys SIwave"
+        ]
+    },
+    {
+        "text": "Familiarity with IC package or PCB layout tools like Cadence APD, Mentor PADS, Xpedition Package Designer.",
+        "skills": [
+            "IC package",
+            "PCB layout tools",
+            "Cadence APD",
+            "Mentor PADS",
+            "Xpedition Package Designer"
+        ]
+    },
+    {
+        "text": "Working knowledge of circuit design tools (e.g. Spectre, ADS, HSpice, Ansys Electronics Desktop Circuit Design).",
+        "skills": [
+            "circuit design tools",
+            "Spectre",
+            "ADS",
+            "HSpice",
+            "Ansys Electronics Desktop Circuit Design"
+        ]
+    },
+    {
+        "text": "Working experience or knowledge of memory protocols and interfaces, like GDDR5, GDDR6, HBM, LPDDR.",
+        "skills": [
+            "memory protocols",
+            "GDDR5",
+            "GDDR6",
+            "HBM",
+            "LPDDR"
+        ]
+    },
+    {
+        "text": "Knowledge of the thermal and mechanical analysis of the IC package development.",
+        "skills": [
+            "thermal and mechanical analysis",
+            "IC package development"
+        ]
+    },
+    {
+        "text": "Experience as a Backend Developer, IoT Engineer, DevOps Engineer or similar roles.",
+        "skills": [
+            "Backend Developer",
+            "IoT Engineer",
+            "DevOps Engineer"
+        ]
+    },
+    {
+        "text": "Some experience with JavaScript or similar.",
+        "skills": [
+            "JavaScript"
+        ]
+    },
+    {
+        "text": "You have hands-on experience in Java (Kotlin) or Python and REST APIs – with a good understanding of containerisation.",
+        "skills": [
+            "Java",
+            "Kotlin",
+            "Python",
+            "REST APIs",
+            "containerisation"
+        ]
+    },
+    {
+        "text": "Experience with designing and building event driven applications, and you have experience with Kafka or similar brokers.",
+        "skills": [
+            "event driven applications",
+            "Kafka"
+        ]
+    },
+    {
+        "text": "Professional experience working in an IoT context or the Energy Market.",
+        "skills": [
+            "IoT",
+            "Energy Market"
+        ]
+    },
+    {
+        "text": "Experience working with Thingsboard.",
+        "skills": [
+            "Thingsboard"
+        ]
+    },
+    {
+        "text": "We think you’ll be best geared for success if you can meet the following requirements:",
+        "skills": []
+    },
+    {
+        "text": "It goes without saying that so-called ‘soft skills’ are just as important as their ‘hard’ cousins.",
+        "skills": []
+    },
+    {
+        "text": "You enjoy teamwork and are used to agile/scrum ways of working.",
+        "skills": [
+            "agile",
+            "scrum"
+        ]
+    },
+    {
+        "text": "Expertise in Premiere Pro",
+        "skills": [
+            "Premiere Pro"
+        ]
+    },
+    {
+        "text": "Experience using BlazeDS, VMWare Workspace ONE and Certified Tester Expert Level",
+        "skills": [
+            "BlazeDS",
+            "VMWare Workspace ONE",
+            "Certified Tester Expert Level"
+        ]
+    },
+    {
+        "text": "Skills:",
+        "skills": []
+    },
+    {
+        "text": "Technical Skills:",
+        "skills": []
+    },
+    {
+        "text": "Requirements:",
+        "skills": []
+    },
+    {
+        "text": "Qualifications:",
+        "skills": []
+    },
+    {
+        "text": "strong emphasis on AI and machine learning",
+        "skills": [
+            "AI",
+            "machine learning"
+        ]
+    },
+    {
+        "text": "Experience: Proven experience in data science, machine learning engineering, and NLP",
+        "skills": [
+            "data science",
+            "machine learning engineering",
+            "NLP"
+        ]
+    },
+    {
+        "text": "Proficiency in Python and experience with data science libraries",
+        "skills": [
+            "Python",
+            "data science libraries"
+        ]
+    },
+    {
+        "text": "Experience with Model Context Protocol (MCP) standard",
+        "skills": [
+            "Model Context Protocol",
+            "MCP"
+        ]
+    },
+    {
+        "text": "Experience with Text-to-SQL (NL2SQL)",
+        "skills": [
+            "Text-to-SQL",
+            "NL2SQL"
+        ]
+    },
+    {
+        "text": "Soft Skills: Excellent problem-solving skills, attention to detail, and ability to work independently as well as part of a team.",
+        "skills": []
+    },
+    {
+        "text": "Automation QA, Python Testing, Test Cases, CI/CD (Jenkins)",
+        "skills": [
+            "Automation QA",
+            "Python Testing",
+            "Test Cases",
+            "CI/CD",
+            "Jenkins"
+        ]
+    },
+    {
+        "text": "Experience with legacy system modernization",
+        "skills": [
+            "legacy system modernization"
+        ]
+    },
+    {
+        "text": "AI tools (Cursor IDE) are mandatory. No prior Python or Flutter experience required — we hire for capability, not keywords",
+        "skills": [
+            "AI tools",
+            "Cursor IDE"
+        ]
+    },
+    {
+        "text": "Tech stack: Python, FastAPI, LangChain, Flutter/Dart, AWS, Docker, Terraform",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "LangChain",
+            "Flutter",
+            "Dart",
+            "AWS",
+            "Docker",
+            "Terraform"
+        ]
+    },
+    {
+        "text": "Ship real products to real customers — not experiments",
+        "skills": []
+    },
+    {
+        "text": "Ship reaYou learn fast — more important than what you know today",
+        "skills": []
+    },
+    {
+        "text": "Excellent English communication (written and verbal)",
+        "skills": [],
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "text": "You think clearly — break down problems, analyze requirements",
+        "skills": []
+    },
+    {
+        "text": "Python or Flutter experience",
+        "skills": [
+            "Python",
+            "Flutter"
+        ]
+    },
+    {
+        "text": "Experience and Skills You Will Need",
+        "skills": []
+    },
+    {
+        "text": "+5 years of experience as a full-stack engineer",
+        "skills": [
+            "full-stack engineer"
+        ]
+    },
+    {
+        "text": "Expertise in Java or Kotlin, capable of designing, building, and maintaining scalable backend/frontend systems.",
+        "skills": [
+            "Java",
+            "Kotlin",
+            "scalable backend/frontend systems"
+        ]
+    },
+    {
+        "text": "Proficiency in cloud-native technologies, preferably Kubernetes, Azure DevOps, Docker and other established cloud solutions",
+        "skills": [
+            "cloud-native technologies",
+            "Kubernetes",
+            "Azure DevOps",
+            "Docker",
+            "cloud solutions"
+        ]
+    },
+    {
+        "text": "Hands-on experience with CI/CD pipelines, Azure DevOps would be a plus.",
+        "skills": [
+            "CI/CD pipelines",
+            "Azure DevOps"
+        ]
+    },
+    {
+        "text": "English language both written and spoken.",
+        "skills": [],
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "text": "Proactive team player, eager to take initiative, share knowledge, and drive growth both individually and for the team.",
+        "skills": [],
+        "languages": []
+    },
+    {
+        "text": "Comfortable working in dynamic environment where you can adapt to evolving processes and challenges.",
+        "skills": [],
+        "languages": []
+    },
+    {
+        "text": "Skilled in frontend technologies, with experience in frameworks like Vue or Angular.",
+        "skills": [
+            "frontend technologies",
+            "Vue",
+            "Angular"
+        ]
+    },
+    {
+        "text": "Knowledge of monitoring and tracing tools like Grafana, Jaeger or OpenTelemetry to enhance observability and performance analysis.",
+        "skills": [
+            "monitoring",
+            "tracing tools",
+            "Grafana",
+            "Jaeger",
+            "OpenTelemetry"
+        ]
+    },
+    {
+        "text": "Programming skills in Typescript (mandatory) and Node.js;",
+        "skills": [
+            "Typescript",
+            "Node.js"
+        ]
+    },
+    {
+        "text": "Frontend experience (React.js or similar);",
+        "skills": [
+            "Frontend",
+            "React.js"
+        ]
+    },
+    {
+        "text": "Previous experience working with hardware equipment represents a significant advantage;",
+        "skills": [
+            "hardware equipment"
+        ]
+    },
+    {
+        "text": "Understanding of cloud computing;",
+        "skills": [
+            "cloud computing"
+        ]
+    },
+    {
+        "text": "Proven experience in video production and editing, with a strong portfolio of work.",
+        "skills": [
+            "video production",
+            "editing"
+        ]
+    },
+    {
+        "text": "Proficiency in AI video generation tools (e.g., Runway, Stable uDiffsion, MidJourney, DALL-E, or others)",
+        "skills": [
+            "AI video generation tools",
+            "Runway",
+            "Stable uDiffsion",
+            "MidJourney",
+            "DALL-E"
+        ]
+    },
+    {
+        "text": "Previous experience in full-stack developing software products (minimum 4-5 years);",
+        "skills": [
+            "full-stack"
+        ]
+    },
+    {
+        "text": "Creative storytelling skills with a keen eye for visual composition and detail",
+        "skills": [
+            "Creative storytelling",
+            "visual composition"
+        ]
+    },
+    {
+        "text": "Familiarity with digital marketing and the ability to tailor content for social media platforms",
+        "skills": [
+            "digital marketing"
+        ]
+    },
+    {
+        "text": "Strong project management and organizational skills, with the ability to work independently and meet deadlines.",
+        "skills": [
+            "project management",
+            "organizational skills"
+        ]
+    },
+    {
+        "text": "A passion for technology, bitcoin, and innovation is a plus",
+        "skills": [
+            "bitcoin"
+        ]
+    },
+    {
+        "text": "Desire and ability to work in a highly collaborative, team-oriented environment",
+        "skills": []
+    },
+    {
+        "text": "Networking knowledge is highly appreciated",
+        "skills": [
+            "Networking"
+        ]
+    },
+    {
+        "text": "Languages",
+        "skills": [],
+        "languages": []
+    },
+    {
+        "text": "Fluent French",
+        "skills": [],
+        "languages": [
+            "French"
+        ]
+    },
+    {
+        "text": "Unit, integration, and regression testing",
+        "skills": [
+            "regression testing"
+        ]
+    },
+    {
+        "text": "Autonomous, responsible, and customer-oriented",
+        "skills": [
+            "Autonomous",
+            "customer-oriented"
+        ]
+    },
+    {
+        "text": "– Strong experience with Python web frameworks and SQL databases.",
+        "skills": [
+            "Python web frameworks",
+            "SQL databases"
+        ]
+    },
+    {
+        "text": "3+ years of core development experience;",
+        "skills": [
+            "core development"
+        ]
+    },
+    {
+        "text": "Passion and enthusiasm for new technologies, such as topics related to software development, Kubernetes and cloud backends",
+        "skills": [
+            "software development",
+            "Kubernetes",
+            "cloud backends"
+        ]
+    },
+    {
+        "text": "Extensive knowledge of programming using Go will be impressive; any other programming language may be an advantage",
+        "skills": [
+            "Go"
+        ]
+    },
+    {
+        "text": "IDEs: IntelliJ and/or Eclipse",
+        "skills": [
+            "IntelliJ",
+            "Eclipse"
+        ]
+    },
+    {
+        "text": "High own demand on code quality, performance, maintainability and extensibility;",
+        "skills": [
+            "code quality"
+        ]
+    },
+    {
+        "text": "Knowledge in handling cloud technologies (e.g. dockers, Kubernetes);",
+        "skills": [
+            "cloud technologies",
+            "dockers",
+            "Kubernetes"
+        ]
+    },
+    {
+        "text": " People who can drive positive change, step up and show what’s next – people with passion, can-do attitude and a hunger to learn and grow.",
+        "skills": []
+    },
+    {
+        "text": "Understanding of software development life cycle and agile methodologies.",
+        "skills": [
+            "software development life cycle",
+            "agile methodologies"
+        ]
+    },
+    {
+        "text": "Service Oriented Architecture / Web Services - SOAP / REST;",
+        "skills": [
+            "Service Oriented Architecture",
+            "Web Services",
+            "SOAP",
+            "REST"
+        ]
+    },
+    {
+        "text": "Understanding of payment industry business and operations.",
+        "skills": [
+            "payment industry"
+        ]
+    }
+]
