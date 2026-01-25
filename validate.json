@@ -1,0 +1,66 @@
+[
+    {
+        "text": "We need a Senior Java Developer with experience in Spring Boot and AWS.",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "AWS"
+        ]
+    },
+    {
+        "text": "Looking for a Project Manager who knows Jira and Agile methodologies.",
+        "skills": [
+            "Jira",
+            "Agile",
+            "Project Manager"
+        ]
+    },
+    {
+        "text": "Must be fluent in German and English.",
+        "skills": [],
+        "languages": [
+            "German",
+            "English"
+        ]
+    },
+    {
+        "text": "Polish language skills.",
+        "skills": [],
+        "languages": [
+            "Polish"
+        ]
+    },
+    {
+        "text": "Extensive experience in embedded/distributed system architecture for high-reliability, long-life projects.",
+        "skills": [
+            "embedded",
+            "distributed system architecture"
+        ]
+    },
+    {
+        "text": "TOGAF certification/expertise.",
+        "skills": [
+            "TOGAF"
+        ]
+    },
+    {
+        "text": "Selenium (any framework experience welcome)",
+        "skills": [
+            "Selenium"
+        ]
+    },
+    {
+        "text": "Strong knowledge of Network Routing, Control Plane (MPLS, IP, ISIS, CFM) and management protocols (NETCONF, gNMI).",
+        "skills": [
+            "network routing",
+            "control plane",
+            "MPLS",
+            "IP",
+            "ISIS",
+            "CFM",
+            "management protocols",
+            "NETCONF",
+            "gNMI"
+        ]
+    }
+]

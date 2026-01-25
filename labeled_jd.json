@@ -491,6 +491,38 @@
         ]
     },
     {
+        "text": "French: Professional level (spoken and written) – mandatory",
+        "skills": [],
+        "languages": [
+            "French"
+        ]
+    },
+    {
+        "text": "English: Technical working proficiency",
+        "skills": [],
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "text": "Language Requirements",
+        "skills": [],
+        "languages": []
+    },
+    {
+        "text": "Git / version control",
+        "skills": [
+            "Git",
+            "version control"
+        ]
+    },
+    {
+        "text": "Linux environments",
+        "skills": [
+            "Linux"
+        ]
+    },
+    {
         "text": "Unit, integration, and regression testing",
         "skills": [
             "regression testing"
@@ -501,6 +533,83 @@
         "skills": [
             "Autonomous",
             "customer-oriented"
+        ]
+    },
+    {
+        "text": "Basic back-end knowledge for integration.",
+        "skills": [
+            "back-end",
+            "integration"
+        ]
+    },
+    {
+        "text": "Have a solid experience in Trade Marketing, Shopper Marketing (minimum 2-3 years).",
+        "skills": [
+            "Trade Marketing",
+            "Shopper Marketing"
+        ]
+    },
+    {
+        "text": "To have an analytical spirit, but also a healthy dose of creativity.",
+        "skills": [
+            "analytical spirit"
+        ]
+    },
+    {
+        "text": "To enjoy collaborating with various teams and to see the concrete impact of your projects on the market.",
+        "skills": []
+    },
+    {
+        "text": "Strong operations / coordination experience in a high-output environment (marketing, content, growth, agency, or similar).",
+        "skills": [
+            "operations",
+            "coordination"
+        ]
+    },
+    {
+        "text": "Understand buyer behavior and the dynamics of modern and traditional channels",
+        "skills": [
+            "buyer behavior",
+            "modern channels",
+            "traditional channels"
+        ]
+    },
+    {
+        "text": "Excellent presentation skills (Google Slides / PowerPoint): can create clean, executive-ready decks fast.",
+        "skills": [
+            "presentation skills",
+            "Google Slides",
+            "PowerPoint"
+        ]
+    },
+    {
+        "text": "High-quality written English for documentation, meeting notes, and partner follow-ups.",
+        "skills": [
+            "documentation"
+        ],
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "text": "Local contract & Hybrid work in Málaga (Spain): 2–3 days/week.",
+        "skills": []
+    },
+    {
+        "text": "Minimum 3 years of proven experience in media buying or paid advertising",
+        "skills": [
+            "media buying",
+            "paid advertising"
+        ]
+    },
+    {
+        "text": "Education is flexible; execution quality and standards matter most.",
+        "skills": []
+    },
+    {
+        "text": "Data driven mindset with strong analytical skills",
+        "skills": [
+            "analytical skills"
         ]
     },
     {
@@ -575,6 +684,509 @@
         "text": "Understanding of payment industry business and operations.",
         "skills": [
             "payment industry"
+        ]
+    },
+    {
+        "text": "Self-starter, strong communication skills - written & verbal- able to explain technical issues and solutions to peers",
+        "skills": [
+            "communication skills"
+        ]
+    },
+    {
+        "text": "Solid understanding of HTML, CSS and JavaScript",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "text": "Influencer – can articulate and challenge appropriately around testing best practices",
+        "skills": []
+    },
+    {
+        "text": "Curiosity and drive: you’re eager to learn, explore new ideas, and contribute to a global, market-leading company.",
+        "skills": []
+    },
+    {
+        "text": "Currently enrolled full-time and pursuing a Bachelor's, Master’s, or Ph.D. in C, or equivalent experience required with an expected graduation date in 2026 or 2027.",
+        "skills": [
+            "computer Science",
+            "Computer Engineering"
+        ]
+    },
+    {
+        "text": "Passionate about programming with a good understanding of concepts such as ML knowledge, ML hands-on coding, Computer Science knowledge, Problem Solving (Python).",
+        "skills": [
+            "ML",
+            "Computer Science",
+            "Python"
+        ]
+    },
+    {
+        "text": "Excellent verbal and written English communication skills; can effectively articulate complex ideas and influence others through well-reasoned explanations.",
+        "skills": [
+            "communication skills"
+        ],
+        "languages": [
+            "English"
+        ]
+    },
+    {
+        "text": "Team collaboration: You enjoy working with others to deliver thoughtful, end-to-end solutions.",
+        "skills": []
+    },
+    {
+        "text": "You can connect the dots between day-to-day tasks and broader organisational goals.",
+        "skills": []
+    },
+    {
+        "text": "At least 3 years of experience as Software Engineer / ML Engineer / AI Engineer, with at least 1-2 years working directly with LLMs in real applications",
+        "skills": [
+            "Software Engineer",
+            "ML Engineer",
+            "AI Engineer",
+            "LLMs"
+        ]
+    },
+    {
+        "text": "Strong proficiency in Python (core language features, packaging, testing, async, type hints)",
+        "skills": [
+            "Python",
+            "packaging",
+            "testing",
+            "async",
+            "type hints"
+        ]
+    },
+    {
+        "text": "Experience building and consuming REST/gRPC APIs and integrating external tools/services",
+        "skills": [
+            "REST",
+            "gRPC APIs"
+        ]
+    },
+    {
+        "text": "Understanding of core ML concepts: supervised/unsupervised learning, train/validation/test splits, overfitting, regularization, and common metrics (precision, recall, F1, ROC-AUC, etc.)",
+        "skills": [
+            "supervised",
+            "unsupervised learning",
+            "overfitting",
+            "regularization",
+            "precision",
+            "recall",
+            "F1",
+            "ROC-AUC"
+        ]
+    },
+    {
+        "text": " Good understanding of deep learning basics (neural networks, embeddings) and at least one ML/DL framework (e.g., PyTorch, TensorFlow, JAX, scikit-learn) ",
+        "skills": [
+            "deep learning",
+            "neural networks",
+            "embeddings",
+            "ML",
+            "DL framework",
+            "PyTorch",
+            "TensorFlow",
+            "JAX",
+            "scikit-learn"
+        ]
+    },
+    {
+        "text": " Deep practical knowledge of large language models",
+        "skills": [
+            "large language models"
+        ]
+    },
+    {
+        "text": "Tokenization, context windows, temperature, top-p, system vs user prompts",
+        "skills": [
+            "Tokenization",
+            "context windows",
+            "temperature",
+            "top-p"
+        ]
+    },
+    {
+        "text": "Prompt engineering patterns (ReAct, chain-of-thought, tool-calling/tool-use)",
+        "skills": [
+            "Prompt engineering",
+            "ReAct",
+            "chain-of-thought",
+            "tool-calling",
+            "tool-use"
+        ]
+    },
+    {
+        "text": "Experience building LLM-powered applications end-to-end: from idea → prototype → production",
+        "skills": [
+            "LLM-powered applications"
+        ]
+    },
+    {
+        "text": "Nice-to-Have Experience With",
+        "skills": []
+    },
+    {
+        "text": "Comfortable with SQL and basic data modeling",
+        "skills": [
+            "SQL",
+            "data modeling"
+        ]
+    },
+    {
+        "text": "Data & Infra",
+        "skills": []
+    },
+    {
+        "text": "Direct production experience with both ADK and LangGraph is a strong plus",
+        "skills": [
+            "ADK",
+            "LangGraph"
+        ]
+    },
+    {
+        "text": "Candidates must be able to read, reason about, and extend ADK/LangGraph-based codebases",
+        "skills": [
+            "ADK",
+            "LangGraph"
+        ]
+    },
+    {
+        "text": "LangGraph – designing graph-based, stateful agent workflows with cycles, branches, and durable execution",
+        "skills": [
+            "LangGraph"
+        ]
+    },
+    {
+        "text": "Conceptual understanding of modern agentic frameworks and patterns (stateful graphs, multi-agent coordination, human-in-the-loop, memory, and evaluation).",
+        "skills": [
+            "modern agentic frameworks",
+            "stateful graphs",
+            "multi-agent coordination",
+            "human-in-the-loop"
+        ]
+    },
+    {
+        "text": "Experience: at least one year in machine learning engineering or applied AI roles, thriving in dynamic environments that demand adaptability, autonomy, and initiative.",
+        "skills": [
+            "machine learning",
+            "AI"
+        ]
+    },
+    {
+        "text": "Education: Master's or PhD in Computer Science, Machine Learning, AI, or related technical field.",
+        "skills": [
+            "Computer Science",
+            "Machine Learning",
+            "AI"
+        ]
+    },
+    {
+        "text": "Model Development: Proven experience designing and deploying production-grade ML/DL models, demonstrating ownership, proactive problem-solving, and comfort iterating rapidly in changing contexts.",
+        "skills": [
+            "deploying",
+            "ML",
+            "DL",
+            "machine learning",
+            "deep learning"
+        ]
+    },
+    {
+        "text": "Time Series Mastery: Expertise in time-series forecasting, anomaly detection, and predictive modeling.",
+        "skills": [
+            "time series forecasting",
+            "anomaly detection",
+            "predictive modeling"
+        ]
+    },
+    {
+        "text": "Data Craftsmanship: Advanced skills in data preparation, feature engineering, and evaluation, able to make progress and deliver value even when requirements evolve or structure is minimal.",
+        "skills": [
+            "data preparation",
+            "feature engineering",
+            "evaluation"
+        ]
+    },
+    {
+        "text": "Visiual enthusiast: Advanced experties in content creation, and visual editting",
+        "skills": [
+            "content creation",
+            "visual editting"
+        ]
+    },
+    {
+        "text": "MLOps Mindset: Experience with model deployment, monitoring, and lifecycle management.",
+        "skills": [
+            "MLOps",
+            "model deployment",
+            "monitoring",
+            "lifecycle management"
+        ]
+    },
+    {
+        "text": "Business Fluency: Ability to translate business challenges into high-impact ML solutions, understanding the fast feedback cycles and decision-making speed typical of startup environments.",
+        "skills": [
+            "ML"
+        ]
+    },
+    {
+        "text": "Collaboration: Comfortable managing priorities, communicating openly, and collaborating across functions in a fast-moving, high-trust team.",
+        "skills": []
+    },
+    {
+        "text": "Expertise in cloud ML ecosystems (Microsoft Fabric, Azure ML, AWS SageMaker, Google Vertex AI)",
+        "skills": [
+            "cloud ML",
+            "Microsoft Fabric",
+            "Azure ML",
+            "AWS SageMaker",
+            "Google Vertex AI"
+        ]
+    },
+    {
+        "text": "Familiarity with reinforcement learning or prescriptive analytics",
+        "skills": [
+            "reinforcement learning",
+            "prescriptive analytics"
+        ]
+    },
+    {
+        "text": "Knowledge of , containerization, and CI/CD",
+        "skills": [
+            "modern ML infrastructure",
+            "containerization",
+            "Docker",
+            "CI/CD"
+        ]
+    },
+    {
+        "text": "To ensure success in this role, you need the following experience and skills:",
+        "skills": []
+    },
+    {
+        "text": "Proficiency in at least one of: Bash, Rust.",
+        "skills": [
+            "Bash",
+            "Rust"
+        ]
+    },
+    {
+        "text": "Proficiency in at least one of: C, C++, Java (preferred).",
+        "skills": [
+            "C",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "text": "Experience with web application development (server-side and client-side).",
+        "skills": [
+            "web application development",
+            "server-side",
+            "client-side"
+        ]
+    },
+    {
+        "text": "Familiarity with safety standards (DO-178C, IEC 61508).",
+        "skills": [
+            "safety standards",
+            "DO-178C",
+            "IEC 61508"
+        ]
+    },
+    {
+        "text": "Only eligible candidates will be contacted in a maximum of 2 weeks. Any information you provide is confidential.",
+        "skills": []
+    },
+    {
+        "text": "Strong portfolio of AI-generated visual work across image or video and different media.",
+        "skills": [
+            "AI-generated visual work"
+        ]
+    },
+    {
+        "text": "Experience writing detailed, structured prompts and preservation constraints.",
+        "skills": [
+            "structured prompts",
+            "preservation constraints"
+        ]
+    },
+    {
+        "text": "Familiarity with product/UX workflows and SEO-driven creative content.",
+        "skills": [
+            "product",
+            "UX workflows",
+            "SEO-driven creative content"
+        ]
+    },
+    {
+        "text": "Experience with CMS-driven content systems, presets, or filter creation.",
+        "skills": [
+            "CMS-driven content systems",
+            "presets",
+            "filter creation"
+        ]
+    },
+    {
+        "text": "Understanding of vfx, camera motion presets, and dynamic composition.",
+        "skills": [
+            "vfx",
+            "camera motion presets",
+            "dynamic composition"
+        ]
+    },
+    {
+        "text": "Good communication skills and ability to write compelling ad copy",
+        "skills": [
+            "communication skills",
+            "ad copy"
+        ]
+    },
+    {
+        "text": "Knowledge of Unix/Linux and real-time OS",
+        "skills": [
+            "Unix",
+            "Linux",
+            "real-time OS"
+        ]
+    },
+    {
+        "text": "Good understanding of Ethernet and IP network protocols",
+        "skills": [
+            "Ethernet",
+            "IP network protocols"
+        ]
+    },
+    {
+        "text": "CI/CD & Build Tools – Jenkins, Git (BitBucket), Maven, Nexus.",
+        "skills": [
+            "CI/CD",
+            "Jenkins",
+            "Git",
+            "BitBucket",
+            "Maven",
+            "Nexus"
+        ]
+    },
+    {
+        "text": "Containerization & Orchestration – Docker, Podman, Helm, OpenShift (OKD/OCP).",
+        "skills": [
+            "containerization",
+            "orchestration",
+            "Docker",
+            "Podman",
+            "Helm",
+            "OpenShift",
+            "OKD",
+            "OCP"
+        ]
+    },
+    {
+        "text": "Infrastructure as Code (IaC) – Terraform, Ansible",
+        "skills": [
+            "IaC",
+            "Terraform",
+            "Ansible"
+        ]
+    },
+    {
+        "text": "Security & Compliance – HashiCorp Vault, Veracode, Trivy, Syft",
+        "skills": [
+            "security",
+            "HashiCorp Vault",
+            "Veracode",
+            "Trivy",
+            "Syft"
+        ]
+    },
+    {
+        "text": "Databases & Messaging – PostgreSQL, MongoDB, Kafka (Confluent), Solace PubSub+.",
+        "skills": [
+            "PostgreSQL",
+            "MongoDB",
+            "Kafka",
+            "Confluent",
+            "Solace PubSub+"
+        ]
+    },
+    {
+        "text": "Problem-Solving & Communication – Ability to bridge gaps between teams and drive project-specific optimizations",
+        "skills": []
+    },
+    {
+        "text": "Languages: Python (Expert), TypeScript/Go (Preferred)",
+        "skills": [
+            "Python",
+            "TypeScript",
+            "Go"
+        ]
+    },
+    {
+        "text": "Backend: FastAPI, Celery/Redis (for async task queues), gRPC.",
+        "skills": [
+            "Backend",
+            "FastAPI",
+            "Celery",
+            "Redis",
+            "async task queues",
+            "gRPC"
+        ]
+    },
+    {
+        "text": "Infrastructure: Kubernetes (GKE), Docker, Helm, Terraform, Confluent, and Kafka.",
+        "skills": [
+            "Kubernetes",
+            "GKE",
+            "Docker",
+            "Helm",
+            "Terraform",
+            "Confluent",
+            "Kafka"
+        ]
+    },
+    {
+        "text": "Cloud: Deep familiarity with GCP ecosystem (Cloud Storage, BigQuery, Vertex AI, Cloud Run, Pub/Sub).",
+        "skills": [
+            "GCP",
+            "Cloud Storage",
+            "BigQuery",
+            "Vertex AI",
+            "Cloud Run",
+            "Pub/Sub"
+        ]
+    },
+    {
+        "text": "Experience in telecom or network data pipelines, OSS/BSS integration, or network analytics",
+        "skills": [
+            "telecom",
+            "network data pipelines",
+            "OSS/BSS",
+            "network analytics"
+        ]
+    },
+    {
+        "text": "Knowledge of MLOps and scalable inference on GPU/accelerator clusters (Kubernetes, Ray, Triton, etc.)",
+        "skills": [
+            "MLOps",
+            "scalable inference",
+            "GPU",
+            "accelerator clusters",
+            "Kubernetes",
+            "Ray",
+            "Triton"
+        ]
+    },
+    {
+        "text": "Understanding of telecom ontologies, service models, and data governance/compliance (GDPR, telco security)",
+        "skills": [
+            "telecom ontologies",
+            "service models",
+            "data governance",
+            "compliance",
+            "GDPR",
+            "telco security"
         ]
     }
 ]

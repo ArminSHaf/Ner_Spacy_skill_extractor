@@ -1,17 +1,10 @@
-Who Are We Looking For
+Bring Along
 
+5+ years in AI/ML engineering, including 2+ years working with LLMs or generative AI
+Strong proficiency in Python, PyTorch/TensorFlow, and LLM frameworks (Hugging Face, LangChain, vLLM, or similar)
+Experience in telecom or network data pipelines, OSS/BSS integration, or network analytics
+Knowledge of MLOps and scalable inference on GPU/accelerator clusters (Kubernetes, Ray, Triton, etc.)
+Understanding of telecom ontologies, service models, and data governance/compliance (GDPR, telco security)
+Excellent collaboration skills to bridge AI research with network engineering and product teams
 
-
-We look for big thinkers. People who can drive positive change, step up and show what’s next – people with passion, can-do attitude and a hunger to learn and grow. In practice this means:
-Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
-Strong programming skills (e.g., Java, Python, or JavaScript) and experience with at least one automation framework (e.g., Robot, Selenium, Playwright, Cypress, Appium).
-Solid experience with API testing (RESTful/SOAP) and tools (Postman, REST Assured, Newman, etc.).
-Experience building and maintaining test automation frameworks, data-driven testing, and test utilities.
-Familiarity with CI/CD tools (Jenkins, GitHub Actions, GitLab CI) and version control (Git).
-Understanding of software development life cycle and agile methodologies.
-Strong problem-solving, debugging, and analytical skills.
-Excellent communication and collaboration abilities.
-5 years of experience automation systems and related infrastructure.
-3 years of experience in testing, maintaining, or launching software products.
-Understanding of payment industry business and operations.
-Previous experience as a Full Stack SW Engineer is a plus.
+What's In It For You

@@ -18,7 +18,6 @@
   },
   "labels":{
     "ner":[
-      "LANGUAGE",
       "LANGUAGES",
       "SKILL"
     ]
