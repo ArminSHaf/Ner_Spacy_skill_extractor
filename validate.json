@@ -62,5 +62,63 @@
             "NETCONF",
             "gNMI"
         ]
+    },
+    {
+        "text": "Exposure to Digital Ecosystem Strategy: Familiarity with developing strategies for user-centric design, findability, globalization, testing, and information architecture in a digital ecosystem..",
+        "skills": [
+            "Digital Ecosystem Strategy",
+            "developing strategies",
+            "user-centric design",
+            "findability",
+            "globalization",
+            "testing",
+            "information architecture"
+        ]
+    },
+    {
+        "text": " Experience with tools like Make, n8n, Zapier, AI copilots (or equivalents)",
+        "skills": [
+            "Make",
+            "n8n",
+            "Zapier",
+            "AI copilots"
+        ]
+    },
+    {
+        "text": "Ability to work effectively in a deadline-driven environment.",
+        "skills": []
+    },
+    {
+        "text": "Ability to attend in-person company meetings and events.",
+        "skills": []
+    },
+    {
+        "text": "Customer Support: 1 year (Required)",
+        "skills": [
+            "Customer Support"
+        ]
+    },
+    {
+        "text": "Experience utilizing digital marketing software.",
+        "skills": [
+            "digital marketing software"
+        ]
+    },
+    {
+        "text": " Experience in JTpack - significant advantage",
+        "skills": [
+            "JTpack"
+        ]
+    },
+    {
+        "text": "Required Technical And Professional Expertise",
+        "skills": []
+    },
+    {
+        "text": "Research and content optimization",
+        "skills": [
+            "Research",
+            "content optimization"
+        ]
     }
 ]

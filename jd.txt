@@ -1,10 +1,20 @@
-Bring Along
+Requirements
 
-5+ years in AI/ML engineering, including 2+ years working with LLMs or generative AI
-Strong proficiency in Python, PyTorch/TensorFlow, and LLM frameworks (Hugging Face, LangChain, vLLM, or similar)
-Experience in telecom or network data pipelines, OSS/BSS integration, or network analytics
-Knowledge of MLOps and scalable inference on GPU/accelerator clusters (Kubernetes, Ray, Triton, etc.)
-Understanding of telecom ontologies, service models, and data governance/compliance (GDPR, telco security)
-Excellent collaboration skills to bridge AI research with network engineering and product teams
+University Degree in Accounting or related field.
+English fluency is a must (written and verbal).
+Accounting or related experience minimum 1-2 years.
+Excellent communication, persuasion, analytical, problem-solving, and time management skills.
+Excellent attention to detail and follow-through.
+High level of accuracy, efficiency, and accountability.
+Ability to build relationships with clients, brokers, and internal departments. Teamwork.
+Microsoft Office proficiency (Excel & Word) and PC skills.
 
-What's In It For You
+Education:
+
+Bachelor's (Required)
+Experience:
+
+Accounting: 1 year (Required)
+Language:
+
+English (Required)
